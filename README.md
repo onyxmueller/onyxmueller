@@ -1,6 +1,6 @@
 ### Hi, I'm Onyx 👋🏽🧑🏽‍💻
 
-I'm a passionate leader, software developer, entrepreneur, and technology evangelist. I lead mobile/connected for WarnerMedia's Sports Technology vertical, helping to shape the quality apps we build for Bleacher Report ( [iOS](https://apps.apple.com/us/app/bleacher-report-sports-news/id418075935) | [Android](https://play.google.com/store/apps/details?id=com.bleacherreport.android.teamstream&hl=en_US&gl=US) ) & March Madness Live ( [iOS](https://apps.apple.com/us/app/ncaa-march-madness-live/id423246594) | [Android](https://play.google.com/store/apps/details?id=com.ncaa.mmlive.app&hl=en_US&gl=US) ).
+I'm a passionate leader, software developer, entrepreneur, and technology evangelist. I currently lead mobile engineering at [Allegion](https://www.allegion.com/), helping to shape apps & SDKs we build relating to access control and security.
 
 [![Featured in androidweekly.net Issue #499][1]][2]
 [![Featured in androidweekly.net Issue #655][3]][4]
